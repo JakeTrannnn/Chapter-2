@@ -1,0 +1,6 @@
+Java.lang contains the foundational components of Java
+
+Every class has some level of inheritance
+    Every class has a base level class they inherit from
+Every object has a constructor
+code has documenation
